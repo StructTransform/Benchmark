@@ -1,5 +1,7 @@
+# Note:
+**This repository has moved and is no longer maintained! Please visit [qcri/StructTransformBench](https://github.com/qcri/StructTransformBench) for the latest updates.**
 
-# StructTransform Bench: Evaluating Structure Transformation Attacks on Safety-Aligned LLMs
+## StructTransform Bench: Evaluating Structure Transformation Attacks on Safety-Aligned LLMs
 
 <p align="center">
     <img src="image/README/sql_example_chat.png" alt="StructTransform Results" width="400">
